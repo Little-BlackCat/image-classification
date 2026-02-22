@@ -1,7 +1,8 @@
 # AI Image Classifier (MobileNetV2)
 
-[TH] โปรเจคนี้เป็นแอปพลิเคชันสำหรับจำแนกรูปภาพโดยใช้โมเดล Deep Learning (MobileNetV2) และแสดงผลผ่าน Streamlit Web Interface ซึ่งเป็นส่วนหนึ่งของการเรียนรู้ด้าน AI และ Machine Learning
-[EN] This is an image classification application using a Deep Learning model (MobileNetV2) with a Streamlit web interface. Developed as part of a learning journey in AI and Machine Learning.
+โปรเจคนี้เป็นแอปพลิเคชันสำหรับจำแนกรูปภาพโดยใช้โมเดล Deep Learning (MobileNetV2) และแสดงผลผ่าน Streamlit Web Interface ซึ่งเป็นส่วนหนึ่งของการเรียนรู้ด้าน AI และ Machine Learning
+
+This is an image classification application using a Deep Learning model (MobileNetV2) with a Streamlit web interface. Developed as part of a learning journey in AI and Machine Learning.
 
 ---
 
